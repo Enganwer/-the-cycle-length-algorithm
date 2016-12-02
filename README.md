@@ -24,5 +24,7 @@ Considere el siguiente algoritmo:
 there's a program that Describe how to find the maximum  cycle length between two integers included them . 
 
 Example 
-//input 1 10 
+
+//input 1 10
+
 //output 20 
