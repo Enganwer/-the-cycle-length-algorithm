@@ -11,6 +11,7 @@ namespace PROBTNPO___The_3n_plus_1_problem
     {
         int cycle = 1;
         int i = 1;
+        //Using recursive method 
         public  int checkNum(int x)
         {  
           if (x == 1) {  cycle = i; i = 1; return cycle;  }
